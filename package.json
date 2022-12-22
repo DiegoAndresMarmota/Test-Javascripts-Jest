@@ -1,0 +1,19 @@
+{
+  "name": "javascript's-jest-framework",
+  "version": "1.0.0",
+  "description": "```\r Importante: 💻  Este ejercicio es interactivo!\r Sigue las instrucciones.\r ```",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "testing"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
+}
